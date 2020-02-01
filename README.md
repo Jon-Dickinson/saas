@@ -1,5 +1,7 @@
 ## Boilerplate App for SaaS Product
 
+![screenshot](https://github.com/Jon-Dickinson/saas/blob/master/screenshot-async.png)
+
 Open source web app that saves you weeks of work when building your own SaaS product.
 
 - The boilerplate comes with many basic SaaS features (see [Features](https://github.com/async-labs/saas#features) below) so that you can focus on features that differentiate your product.
